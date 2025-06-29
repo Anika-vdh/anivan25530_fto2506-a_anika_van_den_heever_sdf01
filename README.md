@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Anika-vdh]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -12,6 +12,7 @@
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
+- 🌱 I'm practicing using freecodecamp and Mimo
 
 ---
 
@@ -66,9 +67,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anika-vdh)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [anikavdheever04@gmail.com](mailto:youremail@example.com)
 
 ---
 
